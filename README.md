@@ -1,2 +1,2 @@
-# HighAltitude-Calculations
-Calculation programs for the Extreme High Altitude projects, which aims to launch a rocket into space.
+# Rocket Calcs
+Calculation programs for various rocket features and properties using MATLAB.
